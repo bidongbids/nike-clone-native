@@ -1,5 +1,4 @@
 {
-  "buildCommand": "npx expo install @expo/metro-runtime && npx expo export --platform web",
   "outputDirectory": "dist",
   "framework": null,
   "rewrites": [
